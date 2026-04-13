@@ -148,7 +148,7 @@ Use emoji indicators for quick visual scanning:
 
 ### Success Criteria
 Make success criteria specific and measurable:
-- ✅ Good: "Run first AB test and see results in Amplitude"
+- ✅ Good: "Run first experiment and see results in analytics platform"
 - ❌ Bad: "Improve experimentation"
 
 ### Implementation Phases

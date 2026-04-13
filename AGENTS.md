@@ -212,7 +212,7 @@ Use skills as needed after completing meetings:
 5. **Remove stale items**: Don't let list grow indefinitely
 
 ### Tracking Achievements
-1. **Specificity matters**: "Shipped DM-1013" not "Made progress"
+1. **Specificity matters**: "Shipped TICKET-123" not "Made progress"
 2. **Include impact**: Why it matters, what it enables
 3. **Link to evidence**: Reference meeting summaries, PRs, tickets
 4. **Organize by theme**: Technical, Leadership, AI, Relationships
@@ -258,10 +258,10 @@ When creating new documents, always start with the appropriate template.
 - **Cleanup**: Delete files after meeting summary created
 
 ### `transcriptions/raw/` (Permanent, Git Tracked)
-- **Purpose**: Original Gemini transcriptions
+- **Purpose**: Original AI-generated transcriptions
 - **Lifecycle**: Create → Keep forever
 - **Git tracked**: Yes
-- **Contents**: Raw meeting notes from Google Meet
+- **Contents**: Raw meeting notes from your transcription tool
 - **Cleanup**: Never delete (source of truth)
 
 ### `transcriptions/YYYY-qX/` (Permanent, Git Tracked)
@@ -277,7 +277,7 @@ When creating new documents, always start with the appropriate template.
 
 Goals and achievements should be tracked across four axes:
 
-1. **Project Impact**: Direct contributions toward team goals (e.g., AB testing, homepage migration)
+1. **Project Impact**: Direct contributions toward team goals (e.g., key initiatives, shipped features)
 2. **Engineering Excellence**: Code quality, observability, helping teams move faster
 3. **Direction**: Setting priorities, unblocking cross-functional partners, strategic contributions
 4. **People**: Mentorship, guidance, helping others achieve more through knowledge sharing

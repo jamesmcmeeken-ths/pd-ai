@@ -123,7 +123,7 @@
 - [ ] Have ticket numbers ready to reference
 
 **During the meeting**:
-- Let Gemini capture the full conversation
+- Let your transcription tool capture the full conversation
 - Take brief notes on key decisions or action items
 - Ask for clarification when needed
 
