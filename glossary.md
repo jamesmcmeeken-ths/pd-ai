@@ -22,7 +22,7 @@ Add definitions for terms, acronyms, project names, and concepts relevant to you
 ### **[Role or Team Name]**
 [Description and how it relates to your work]
 
-### **DRRi** (Directly Responsible Individual)
+### **DRI** (Directly Responsible Individual)
 Person responsible for a product area who ensures work continues even when they're on leave.
 
 ### **Cross-functional Partner**
