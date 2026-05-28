@@ -53,6 +53,15 @@ Custom AI instruction sets that automate specific workflows (e.g., processing me
 ### **MCP** (Model Context Protocol)
 Protocol for connecting AI assistants to external tools like Jira, Notion, Slack, and GitHub.
 
+### **Copilot**
+GitHub Copilot — AI assistant integrated into code editors for code completion and suggestions.
+
+### **Gemini**
+Google's AI assistant. Commonly used for meeting transcription (e.g., Google Meet integration).
+
+### **AI Agents**
+AI systems that can perform multi-step tasks autonomously using tools, skills, and context. OpenCode skills are a form of AI agent workflow.
+
 ## Development Process Terms
 
 ### **Lead Time**

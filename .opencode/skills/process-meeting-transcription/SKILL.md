@@ -157,6 +157,7 @@ Example:
 - **Evidence-based**: Achievements should be specific and tied to outcomes, not activities.
 - **Clean up as you go**: Remove stale action items rather than letting them accumulate.
 - **Use exact dates**: Always YYYY-MM-DD format for consistency.
+- **Progression lens**: After completing steps 3–4 (achievements and feedback), check `profile/progression/progression-gap-analysis.md`. Ask: Can any achievement be framed in target-level language? Does any new action item address a genuine gap? Note progression evidence in the feedback log where relevant.
 
 ## Output
 

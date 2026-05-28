@@ -1,5 +1,7 @@
 # AI Instructions for Personal Development Repository
 
+> **Important Note for AI Assistants**: Use the acronym **DRI** (Directly Responsible Individual), not "DRRi". The correct term is DRI throughout all documentation. See [glossary.md](./glossary.md) for definition.
+
 ## Repository Purpose
 
 This repository serves as a structured knowledge base for professional development tracking. It contains:
@@ -18,6 +20,50 @@ The repository is designed to be **LLM-friendly** with structured data, YAML fro
 3. **Temporal organization**: Content organized by quarter and date
 4. **Separation of concerns**: Stable profile data vs time-bound tracking data
 5. **Evidence-based**: Concrete achievements and feedback over generalizations
+6. **Progression-aware**: Goals and achievements are framed with awareness of your current → target level progression gap
+
+---
+
+## Career Progression Framework
+
+**Current level**: [Your Current Level, e.g. Senior Engineer I]
+**Target level**: [Your Target Level, e.g. Senior Engineer II]
+**Framework location**: `profile/progression/`
+
+### Files
+
+- `profile/progression/[current-level].md` — Full competency criteria for the current level
+- `profile/progression/[target-level].md` — Full competency criteria for the target level
+- `profile/progression/progression-gap-analysis.md` — Side-by-side gap analysis with current standing, quarterly goal mapping, and decision-making questions
+
+### How the framework is used
+
+The progression framework is a **background lens**, not a primary target. It should:
+
+- **Inform goal prioritisation**: When evaluating whether to pursue a goal or take on extra work, check whether it addresses a genuine gap at the next level
+- **Shape how achievements are framed**: Achievements should be described using language that reflects target-level behaviours where applicable (e.g., "created opportunities for others", "communicated long-term vision", "led cross-org adoption")
+- **Guide meeting prep**: When preparing for 1:1s with your manager, reference the gap analysis to ensure discussion topics are progression-relevant
+- **Not override authenticity**: Don't chase the framework at the expense of genuine growth. Trust that doing good work in the right areas gets you there naturally
+
+### The core behavioural shift (typical SE I → SE II example)
+
+> Current level: "I lead projects well and communicate within my squad and guild."
+> Target level: "I make the people and systems around me better, and communicate the long-term vision beyond my team."
+
+### Key questions when evaluating work
+
+1. **Does this create opportunities for others?** (Initiative marker)
+2. **Does this build a cross-discipline strategic relationship?** (Leadership marker)
+3. **Can this be framed around long-term vision, not just immediate output?** (Communication marker)
+4. **Does this involve leading something org-wide, not just squad-wide?** (AI/Technical effectiveness marker)
+
+### When processing meetings or updating goals
+
+When running the `process-meeting-transcription` skill or reviewing goals:
+
+1. **Check achievements against gap analysis**: Can any achievement be framed in target-level language? (e.g., "cross-functional influence", "creates opportunities for others", "communicates vision")
+2. **Flag new progression evidence**: If a new behaviour or piece of work clearly demonstrates a target-level competency, note it in the feedback log and achievements
+3. **Weigh new action items**: If a new action item emerges, consider whether it addresses a gap or reinforces an already-strong area. Prefer the former when choices exist
 
 ---
 
